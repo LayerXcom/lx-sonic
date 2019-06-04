@@ -20,4 +20,4 @@ cargo test --release
 ```
 
 ## Acknowledgements
-Original implementation is [sonic crate](https://github.com/ebfull/sonic), developed by [Sean Bowe](https://github.com/ebfull). This implementation have been adapted from it.
+Original implementation for paper is in [sonic crate](https://github.com/ebfull/sonic), developed by [Sean Bowe](https://github.com/ebfull). This implementation have been adapted from it.
