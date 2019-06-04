@@ -3,6 +3,7 @@ This library is an implementation of Sonic.
 
 - [Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and
 Updatable Structured Reference Strings](https://eprint.iacr.org/2019/099.pdf)
+  - Mary Maller, [Sean Bowe](https://github.com/ebfull), Markulf Kohlweiss, Sarah Meiklejohn
 
 Unhelpder mode is not fully implemented yet.
 
@@ -17,3 +18,6 @@ cargo build --release
 ```
 cargo test --release
 ```
+
+## Acknowledgements
+Original implementation is [sonic crate](https://github.com/ebfull/sonic), developed by [Sean Bowe](https://github.com/ebfull). This implementation have been adapted from it.
